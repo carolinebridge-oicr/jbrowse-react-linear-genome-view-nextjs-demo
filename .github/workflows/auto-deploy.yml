@@ -1,4 +1,4 @@
-name: Receive dispatch (publish)
+name: Receive dispatch (deploy)
 
 on:
   repository_dispatch:
